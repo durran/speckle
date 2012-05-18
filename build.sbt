@@ -4,4 +4,4 @@ version := "0.0.0"
 
 organization := "org.speckle"
 
-scalaVersion := "2.9.1"
+scalaVersion := "2.10.0-M3"
