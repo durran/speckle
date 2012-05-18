@@ -1,5 +1,5 @@
-import org.speckle.Spec
+import org.speckle.{ Matchers, Spec }
 
-class SpecSpec extends Spec {
+class SpecSpec extends Spec with Matchers {
 
 }
